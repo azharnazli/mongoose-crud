@@ -1,0 +1,25 @@
+{
+  "name": "mongoose-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azharnazli/mongoose-crud.git"
+  },
+  "keywords": [],
+  "author": "M Azhar Nazli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azharnazli/mongoose-crud/issues"
+  },
+  "homepage": "https://github.com/azharnazli/mongoose-crud#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.20"
+  }
+}
